@@ -7,7 +7,7 @@ pageEncoding="ISO-8859-1"%>
 <head>
 <title></title>
 </head>
-<body  bgcolor="#DC143C">
+<body  >
     <p><strong>Welcome to booksearch</strong></p>
    <form action="actionllll" method="post">
        Author Name:<br/><input type="text" name="Name"/><br/>

@@ -4,7 +4,7 @@
 <head>
 <title></title>
  </head>
-  <body bgcolor="#FFFF00">
+  <body >
      <p><strong>作者信息及书目名称</strong></p>
    <table  border= 2 >
 	 <thead>

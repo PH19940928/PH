@@ -3,7 +3,7 @@
 <html>
 <head>
 </head>
-<body bgcolor="#C0C0C0" >
+<body >
         <p><strong>查无此人</strong></p>
 </body>
 </html>
