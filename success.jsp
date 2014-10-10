@@ -8,7 +8,7 @@
      <p><strong>作者信息及书目名称</strong></p>  //  change 
    <table  border= 2 >
 	 <thead>
-		<tr>
+		<tr>//love
 			<th><small>Name</small></th>
 			<th><small>Age</small></th>
 			<th><small>Country</small></th>
