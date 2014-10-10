@@ -5,7 +5,7 @@
 <title></title>
  </head>
   <body >
-     <p><strong>作者信息及书目名称</strong></p>
+     <p><strong>作者信息及书目名称</strong></p>  //  change 
    <table  border= 2 >
 	 <thead>
 		<tr>
